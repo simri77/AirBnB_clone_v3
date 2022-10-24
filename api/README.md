@@ -1,1 +1,1 @@
-# This is api directory.
+# REST api
